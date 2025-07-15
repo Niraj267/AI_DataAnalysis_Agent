@@ -1,6 +1,6 @@
 # 📊 AI Data Analysis Agent
 
-An intelligent, interactive data analysis tool powered by **OpenAI GPT-4o**, **DuckDB**, and **Streamlit**.  
+An intelligent, interactive data analysis tool powered by **DuckDB**, and **Streamlit**.  
 Upload your dataset and ask questions in plain English — get smart answers, SQL queries, and data visualizations instantly.
 
 ---
